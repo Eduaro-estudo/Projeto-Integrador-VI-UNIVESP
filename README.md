@@ -1,4 +1,4 @@
-# Projeto-Integrador-VI-UNIVESP
+# Projeto-Integrador-VI-UNIVESP - Engenharia de Computação
 
   O projeto consiste em usar um microcontrolador ESP32 Wroom para envio de variáveis ambientais para um servidor da plataforma Blynk IOT.
   Faz uso de sensores MQ7 para detecção de monóxido de carbono, MQ2 para GLP e Butano que são os gases combustíveis mais usados no Brasil e DHT22 para temperatura e unidade.
