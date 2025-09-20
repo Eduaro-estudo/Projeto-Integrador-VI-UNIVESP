@@ -5,3 +5,4 @@
   Possui dois drivers de potência para controle ativo do ambiente para equipamentos de refrigeração e unidificação.
   O código foi escrito usando a IDE Arduino.
   O app móvel da plataforma Blynk IOT foi utilizada como dashboard para o usuário final.
+  O código foi escrito usado IDE Arduino
